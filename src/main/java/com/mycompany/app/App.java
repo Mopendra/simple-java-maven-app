@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world web hook! MK
+ * Hello world web hook! MK 2024
  */
 public class App {
 
